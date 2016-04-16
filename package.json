@@ -1,0 +1,17 @@
+{
+  "name": "testpackage",
+  "version": "1.0.1",
+  "description": "text nodejs",
+  "main": "methods.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "San Pwint Thu",
+  "license": "ISC"
+}
